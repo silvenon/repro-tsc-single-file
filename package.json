@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/request-promise": "^4.1.42"
+  }
+}
